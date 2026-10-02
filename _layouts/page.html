@@ -1,5 +1,12 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/twitter/page.html %}
+<nav class="sw-jumps sw-course-nav" aria-label="Course">
+  <a href="{{ '/' | relative_url }}"{% if page.url == '/' or page.url == '/index.html' %} aria-current="page"{% endif %}>Overview</a>
+  <a href="{{ '/pages/schedule.html' | relative_url }}"{% if page.url == '/pages/schedule.html' %} aria-current="page"{% endif %}>Schedule</a>
+  <a href="{{ '/pages/slides.html' | relative_url }}"{% if page.url == '/pages/slides.html' %} aria-current="page"{% endif %}>Slides</a>
+  <a href="{{ '/pages/homework.html' | relative_url }}"{% if page.url == '/pages/homework.html' %} aria-current="page"{% endif %}>Homework</a>
+  <a href="{{ '/pages/project.html' | relative_url }}"{% if page.url == '/pages/project.html' %} aria-current="page"{% endif %}>Project</a>
+  <a href="https://piazza.com/umass/spring2016/biostats690nr/home">Piazza</a>
+</nav>
+{{ content }}
