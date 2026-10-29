@@ -4,6 +4,8 @@ title: Grades
 tagline: Spring, 2014
 ---
 
+This page is tagged Spring 2014. The [schedule](schedule.html), [homework](homework.html), and [project](project.html) are the Spring 2016 course.
+
 ####Types of Assignments and Activities, with Grade Contributions
 
 **Problem sets and readings (25%)**

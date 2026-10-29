@@ -26,6 +26,40 @@ samwiki: true
   </aside>
 </section>
 
+<section class="sw-section" id="from-the-notes" aria-labelledby="sw-notes-title">
+  <div class="sw-section-head">
+    <h2 id="sw-notes-title">From the notes <span class="sw-pill">5 arguments</span></h2>
+    <p>The schedule is a list of topics. The labs ask for something sharper. The <a href="{{ '/pages/insights.html' | relative_url }}">insights page</a> walks through the claim each assignment is built to make.</p>
+  </div>
+  <div class="sw-grid sw-grid-notes">
+    <article class="sw-card sw-insight">
+      <h3 class="sw-name"><a href="{{ '/pages/insights.html#simpson' | relative_url }}">The overall line can be the wrong story</a></h3>
+      <p>State SAT scores against teacher salary, then split by who takes the test. Lecture 1 names the disagreement Simpson’s paradox.</p>
+      <p class="sw-meta">Lecture 1 · 1994–95 SAT</p>
+    </article>
+    <article class="sw-card sw-insight">
+      <h3 class="sw-name"><a href="{{ '/pages/insights.html#shuffle' | relative_url }}">A fair shuffle does not look fair</a></h3>
+      <p>Equal frequency and an unpredictable next song. One playlist still cannot prove the shuffle was random.</p>
+      <p class="sw-meta">Lab 1 · iPod</p>
+    </article>
+    <article class="sw-card sw-insight">
+      <h3 class="sw-name"><a href="{{ '/pages/insights.html#compared-to-what' | relative_url }}">Compared to what?</a></h3>
+      <p>A graphic is an argument: a comparison, a mechanism, more than two variables, and the source written on the page.</p>
+      <p class="sw-meta">Data viz · 25 Jan 2016</p>
+    </article>
+    <article class="sw-card sw-insight">
+      <h3 class="sw-name"><a href="{{ '/pages/insights.html#null' | relative_url }}">The null is a world you can simulate</a></h3>
+      <p>Five thousand coin-flip ladies, then a shuffled smoking coefficient on the FEV data. The p-value is that comparison.</p>
+      <p class="sw-meta">Tea slides · Lab 5</p>
+    </article>
+    <article class="sw-card sw-insight">
+      <h3 class="sw-name"><a href="{{ '/pages/insights.html#missing' | relative_url }}">Dropping missing rows drops people</a></h3>
+      <p>Tabulate missing age before you drop the row. The people left are not the whole ship. On the Challenger quiz, the intercept is the log-odds at 60°F.</p>
+      <p class="sw-meta">Titanic · Challenger quiz</p>
+    </article>
+  </div>
+</section>
+
 #### Course summary
 The aim of this course is to provide students with the skills necessary to tell interesting and useful stories in real-world encounters with data. Students will learn fundamental concepts and tools relevant to the practice of summarizing, visualizing, modeling, and analyzing data. Students will learn how to build statistical models that can be used to describe multidimensional relationships that exist in the real world. Specific methods covered will include linear, logistic, and Poisson regression. This course will introduce students to the R statistical computing language and by the end of the course will require substantial independent programming. To the extent possible, the course will draw on real datasets from biological and biomedical applications. This course is designed for students who are looking for a second course in applied statistics/biostatistics (e.g. beyond BIOSTATS 391B or STAT 240), or an accelerated introduction to statistics and modern statistical computing. 
 
@@ -36,7 +70,9 @@ The aim of this course is to provide students with the skills necessary to tell 
 
 #### Course Details
 
-**Course number**: PUBHLTH 490ST 
+**Course number**: PUBHLTH 490ST
+
+**Syllabus**: [PDF]({{ '/assets/syllabus/data-stories-reich-syllabus.pdf' | relative_url }}) 
 
 **Instructor**: [Nicholas Reich](http://reichlab.github.io)
 

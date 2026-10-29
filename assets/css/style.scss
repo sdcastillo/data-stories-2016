@@ -591,6 +591,24 @@ body.samwiki :focus-visible {
 // Course wayfinding for this multi-page site. The rules above are the shared SamWiki skin.
 body.samwiki .sw-course-nav {
   margin: 0 0 1.35rem;
+  flex-wrap: wrap;
+  overflow: visible;
+}
+
+body.samwiki .sw-grid-notes {
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 42em) {
+  body.samwiki .sw-grid-notes {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 64em) {
+  body.samwiki .sw-grid-notes {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 
 body.samwiki .sw-course-nav a[aria-current="page"] {
@@ -606,5 +624,35 @@ body.samwiki .main-content img {
 body.samwiki .main-content table {
   display: block;
   width: 100%;
+  max-width: 100%;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+body.samwiki .main-content th,
+body.samwiki .main-content td {
+  white-space: nowrap;
+}
+
+body.samwiki .sw-insight {
+  scroll-margin-top: 6rem;
+}
+
+body.samwiki .sw-insight p {
+  margin: 0.55rem 0 0;
+  color: #314657;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+body.samwiki .sw-card .sw-meta {
+  margin-top: auto;
+  padding-top: 0.85rem;
+}
+
+body.samwiki .sw-note {
+  max-width: 68ch;
+  color: #243447;
+  font-size: 1.05rem;
+  line-height: 1.6;
 }

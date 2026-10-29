@@ -5,7 +5,7 @@ tagline:
 ---
 
 <!--Some lectures from the course will be available as [video lectures](https://umass.echo360.com/ess/portal/section/6c47935b-4969-45f0-8498-904023f6eb3f). -->
-The source code and PDF files associated with the lectures will be posted below after they are presented in class. Source files for all slides are available from the [master branch of the GitHub repository for this course](https://github.com/nickreich/applied-regression-2016).
+These are the lectures and labs posted for the term. The R Markdown, knitr, and PDF files are in this repository. The upstream slide source is the [applied-regression-2016](https://github.com/nickreich/applied-regression-2016) repository.
 
 
 \[S=Slides \| A=Annotated Slides \]
@@ -25,7 +25,7 @@ The source code and PDF files associated with the lectures will be posted below 
 * Data Viz 3: Multivariate Data Visualization \[  [S](../assets/lectures/data-viz-NHANES/Presentation-NHANES.html) \]
 
 
-* [Lab 1: iPod shuffle](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-individual.html)
+* [Lab 1: iPod shuffle](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-individual.html) ([group](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-group.html))
 * [Lab 2: Linear Regression](../assets/labs/lab2-slr/lab2-slr.pdf)
 * [Lab 3: Multiple Linear Regression](../assets/labs/lab3-mlr-practice/lab3-mlr-practice.pdf)
 * [Lab 4: Analyzing FEV data](../assets/labs/lab4-fev/lab4-fev.pdf)

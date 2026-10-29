@@ -4,6 +4,8 @@ title: Problem Set 2
 tagline: Spring, 2014
 ---
 
+This page is tagged Spring 2014. The [homework](homework.html) page is the Spring 2016 list.
+
 Create a reproducible document (using knitr) that summarizes the data analysis write-up that you have been working on. This assignment should include the elements that were assigned in classes 2, 3, 5, 7, and 11.
 
 #### From Class 2
