@@ -31,7 +31,7 @@ samwiki: true
     <h2 id="sw-notes-title">From the notes <span class="sw-pill">5 arguments</span></h2>
     <p>The schedule is a list of topics. The labs ask for something sharper. The <a href="{{ '/pages/insights.html' | relative_url }}">insights page</a> walks through the claim each assignment is built to make.</p>
   </div>
-  <div class="sw-grid">
+  <div class="sw-grid sw-grid-notes">
     <article class="sw-card sw-insight">
       <h3 class="sw-name"><a href="{{ '/pages/insights.html#simpson' | relative_url }}">The overall line can be the wrong story</a></h3>
       <p>State SAT scores against teacher salary, then split by who takes the test. Lecture 1 names the disagreement Simpson’s paradox.</p>
@@ -54,7 +54,7 @@ samwiki: true
     </article>
     <article class="sw-card sw-insight">
       <h3 class="sw-name"><a href="{{ '/pages/insights.html#missing' | relative_url }}">Dropping missing rows drops people</a></h3>
-      <p>Titanic age is not missing at random in any casual sense. Complete cases are a smaller passenger list, and the logit intercept depends on where you centered temperature.</p>
+      <p>Tabulate missing age before you drop the row. The people left are not the whole ship. On the Challenger quiz, the intercept is the log-odds at 60°F.</p>
       <p class="sw-meta">Titanic · Challenger quiz</p>
     </article>
   </div>

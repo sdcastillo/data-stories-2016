@@ -56,3 +56,18 @@ samwiki: true
   <p class="sw-note">The lab then filters to passengers whose age is present, and it says the quiet part: this is rarely a good assumption, and the remaining rows may no longer represent everyone on the ship. The worked logistic example in the lab source is <code>survived ~ age * sex + pclass</code> on that filtered table. A predicted probability from <code>predict(..., type = "response")</code> is a probability for that smaller group. The April quiz is the other half of reading a logistic model. Twenty-three shuttle launches, damage as a function of temperature centered at 60°F, so the intercept is the log-odds at 60 degrees rather than at zero. The probability is the inverse logit of the linear predictor. One of the three figures draws the slope with the sign reversed. Fitting the model is not the same as reading which curve you were handed.</p>
   <p class="sw-meta">Source: <a href="{{ '/assets/labs/lab6-titanic/lab6-titanic.pdf' | relative_url }}">Lab 6</a>, <a href="{{ '/assets/lectures/lecture9-missing-data/lecture9-missing-data.pdf' | relative_url }}">missing-data slides</a>, <a href="{{ '/pages/quiz-logistic.pdf' | relative_url }}">logistic quiz</a>.</p>
 </section>
+
+<section class="sw-section" id="also-filed">
+  <div class="sw-section-head">
+    <h2>Easy to miss</h2>
+    <p>These pages are in the repository and were not on the old navigation bar.</p>
+  </div>
+  <ul>
+    <li><a href="{{ '/pages/data-viz-reading-list.html' | relative_url }}">Data visualization reading list</a>, linked from week 2 of the schedule.</li>
+    <li><a href="{{ '/pages/missing-data-reading-list.html' | relative_url }}">Missing-data reading list</a> (Horton and Kleinman; Howell, parts I and II), linked from week 13.</li>
+    <li><a href="{{ '/pages/datasets.html' | relative_url }}">Datasets</a> the class was pointed at: Vanderbilt, UCI, and Add Health.</li>
+    <li><a href="{{ '/pages/quiz2-doc.html' | relative_url }}">Quiz: interpreting coefficients</a> (14 February 2016), heart rate against temperature and sex.</li>
+    <li><a href="{{ '/pages/quiz-logistic.pdf' | relative_url }}">Quiz: logistic regression</a> (April 2016), the Challenger O-rings.</li>
+  </ul>
+  <p class="sw-note">The problem-set and grades pages still in this folder are tagged Spring 2014. The 2016 assignments are the <a href="{{ '/pages/homework.html' | relative_url }}">homework</a> and <a href="{{ '/pages/project.html' | relative_url }}">project</a> pages.</p>
+</section>

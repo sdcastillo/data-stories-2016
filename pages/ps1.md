@@ -4,7 +4,9 @@ title: Problem Set 1
 tagline: Spring, 2014
 ---
 
-You must hand in a digital source file that the instructors can compile (using knitr) to create a PDF or HTML file with your problem set. The entire problem set must be handed in as a digitial file. Equations must be typeset in the document itself. The TA will provide instructions about how to hand in assignments.
+This page is tagged Spring 2014. The [homework](homework.html) page is the Spring 2016 list.
+
+You must hand in a digital source file that the instructors can compile (using knitr) to create a PDF or HTML file with your problem set. The entire problem set must be handed in as a digital file. Equations must be typeset in the document itself. The TA will provide instructions about how to hand in assignments.
 
  * Read KNN chapters 1, 6.1-6.5, 6.8-6.9, 7.5-7.6, OpenIntro Chapters 7 and 8
  * Derive the SLR estimators b0 and b1

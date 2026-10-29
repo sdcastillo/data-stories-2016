@@ -11,9 +11,9 @@ tagline:
 Week |       |     | Topic   | Notes | HW Due | Reading
 ---- | ----- | --- | ------- | ----- |:------:| -------
  1   | Jan | 19, 21  | Intro, motivation | [swirl](../assets/labs/swirl-intro.R), iPod lab [ind](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-individual.html), [grp](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-group.html) | | Syllabus, Kaplan 1.
- 2   |     | 26, 28  &nbsp;| Data visualization | | |  [Data viz reading list](data-viz-reading-list.html)
- 3   | Feb | 2, 4   | Data visualization | |  |
- 4   |     | 9, 11 | Language of Models | [Lec 2](../assets/lectures/data-viz-NHANES/Presentation-NHANES.html) | |  Kaplan Ch. 6, 7
+ 2   |     | 26, 28  &nbsp;| Data visualization | [Principles](../assets/lectures/data-viz-principles/data-viz-principles-and-EDA.html), [ggplot2](../assets/lectures/data-viz-ggplot/data-viz-ggplot.html) | |  [Data viz reading list](data-viz-reading-list.html)
+ 3   | Feb | 2, 4   | Data visualization | [NHANES](../assets/lectures/data-viz-NHANES/Presentation-NHANES.html) |  |
+ 4   |     | 9, 11 | Language of Models | [Lec 2](../assets/lectures/lecture2-model-language/lecture2-model-language.pdf) | |  Kaplan Ch. 6, 7
  5   |     | 18     | Fitting Linear Models | | |  Kaplan Ch. 8
  6   |     | 23, 25 | Linear Regression | [Lec 3](../assets/lectures/lecture3-slr/lec3-slr.pdf) | [Lab 2](../assets/labs/lab2-slr/lab2-slr.pdf) |  OpenIntro Ch. 7
  7   | Mar | 1, 3   | Multiple Linear Regression | [Lec 4](../assets/lectures/lecture4-mlr/lec4-mlr.pdf) | [Project 1](project1.html) | OpenIntro Ch. 8
@@ -23,7 +23,7 @@ Week |       |     | Topic   | Notes | HW Due | Reading
  10  |     | 29, 31 | Hypothesis testing | [Lec 7](../assets/lectures/lecture7-model-confidence/lecture7-model-confidence.pdf) | [Lab 4](../assets/labs/lab4-fev/lab4-fev.pdf) | Kaplan Ch. 11-15
  11  | Apr | 5, 7   | Logistic regression | [Lec 8](../assets/lectures/lecture8-logistic-regression/lecture8-logistic-regression.pdf)| [Lab 5](../assets/labs/lab5-inference/lab5.pdf) | Kaplan Ch 16, _OI_ Ch 8
  12  |     | 12, 14 | Logistic regression | [Lab 6](../assets/labs/lab6-titanic/lab6-titanic.pdf) |  | [NYT article](http://www.nytimes.com/interactive/2016/04/11/upshot/for-the-poor-geography-is-life-and-death.html)
- 13  |     | 19, 21 | Missing data | [Lec 9](../assets/lectures/lecture9-missing-data/lecture9-missing-data.pdf) | | 
+ 13  |     | 19, 21 | Missing data | [Lec 9](../assets/lectures/lecture9-missing-data/lecture9-missing-data.pdf) | | [Reading list](missing-data-reading-list.html)
  14  |     | 26     | Final projects | | | 
 
 

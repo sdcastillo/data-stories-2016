@@ -40,7 +40,7 @@ Each member of the group will lead a particular thread of analysis and/or datase
 
 Examples of elements are:
 
-1. identifying and describing, using appropriate analytical tools (e.g. a regression model) to descibe relationships important variables in your dataset. This might include fitting a regression model and interpreting the output, with particular attention paid to a relationship that you know scientifically to be a question of interest.
+1. identifying and describing, using appropriate analytical tools (e.g. a regression model) to describe relationships among important variables in your dataset. This might include fitting a regression model and interpreting the output, with particular attention paid to a relationship that you know scientifically to be a question of interest.
 2. showing, using an in-depth or sequence of data visualizations, an important feature of relationship within your dataset.
 3. creating and evaluating predictions from your model.
 4. fitting and describing key features of this a regression model, such as discussing the possible influence of outlying points, missing data, non-linear relationships, etc... 
