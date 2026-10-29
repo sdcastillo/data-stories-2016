@@ -10,7 +10,7 @@ tagline:
 
 Week |       |     | Topic   | Notes | HW Due | Reading
 ---- | ----- | --- | ------- | ----- |:------:| -------
- 1   | Jan | 19, 21  | Intro, motivation | [swirl](../assets/labs/swirl-intro.R), iPod lab [ind](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-individual.html), [grp](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-group.html) | | Syllabus, Kaplan 1.
+ 1   | Jan | 19, 21  | Intro, motivation | [swirl](../assets/labs/swirl-intro.R), iPod lab [ind](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-individual.html), [grp](../assets/labs/lab1-ipod-shuffle/lab1-ipod-shuffle-group.html) | | [Syllabus](../assets/syllabus/data-stories-reich-syllabus.pdf), Kaplan 1.
  2   |     | 26, 28  &nbsp;| Data visualization | [Principles](../assets/lectures/data-viz-principles/data-viz-principles-and-EDA.html), [ggplot2](../assets/lectures/data-viz-ggplot/data-viz-ggplot.html) | |  [Data viz reading list](data-viz-reading-list.html)
  3   | Feb | 2, 4   | Data visualization | [NHANES](../assets/lectures/data-viz-NHANES/Presentation-NHANES.html) |  |
  4   |     | 9, 11 | Language of Models | [Lec 2](../assets/lectures/lecture2-model-language/lecture2-model-language.pdf) | |  Kaplan Ch. 6, 7

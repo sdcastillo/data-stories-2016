@@ -70,7 +70,9 @@ The aim of this course is to provide students with the skills necessary to tell 
 
 #### Course Details
 
-**Course number**: PUBHLTH 490ST 
+**Course number**: PUBHLTH 490ST
+
+**Syllabus**: [PDF]({{ '/assets/syllabus/data-stories-reich-syllabus.pdf' | relative_url }}) 
 
 **Instructor**: [Nicholas Reich](http://reichlab.github.io)
 

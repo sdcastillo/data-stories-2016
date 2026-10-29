@@ -3,6 +3,7 @@ layout: default
 ---
 <nav class="sw-jumps sw-course-nav" aria-label="Course">
   <a href="{{ '/' | relative_url }}"{% if page.url == '/' or page.url == '/index.html' %} aria-current="page"{% endif %}>Overview</a>
+  <a href="{{ '/assets/syllabus/data-stories-reich-syllabus.pdf' | relative_url }}">Syllabus</a>
   <a href="{{ '/pages/schedule.html' | relative_url }}"{% if page.url == '/pages/schedule.html' %} aria-current="page"{% endif %}>Schedule</a>
   <a href="{{ '/pages/slides.html' | relative_url }}"{% if page.url == '/pages/slides.html' %} aria-current="page"{% endif %}>Slides</a>
   <a href="{{ '/pages/homework.html' | relative_url }}"{% if page.url == '/pages/homework.html' %} aria-current="page"{% endif %}>Homework</a>

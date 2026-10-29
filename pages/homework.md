@@ -4,7 +4,7 @@ title: Homework
 tagline: 
 ---
 
-Homework assignments will be posted here, in general organized by due date. Unless otherwise specified, parts of homework assignments that need to be handed in should be handed in via your personal Google Drive folder that only you and the instructor have access to. Unless specified below, the deadline for completing homework is before the beginning of class on the due date. 
+Homework assignments will be posted here, in general organized by due date. The list runs backward through the term: the last due date is at the top. Unless otherwise specified, parts of homework assignments that need to be handed in should be handed in via your personal Google Drive folder that only you and the instructor have access to. Unless specified below, the deadline for completing homework is before the beginning of class on the due date. 
 
 **Collaboration on homework is expected and encouraged, although you must write up your own assignment. No copying or cutting and pasting.**
 
@@ -24,7 +24,7 @@ _Due Tues 3/1_
 _Due Thursday 2/25, 5pm_
 
  - Read OpenIntro Chapter 7.
- - [Lab 2](../assets/labs/lab2-slr/lab2-slr.pdf). You should hand in an html created with RMarkdown file that shows your code as well as has your written responses to the exercises.
+ - [Lab 2](../assets/labs/lab2-slr/lab2-slr.pdf). You should hand in an HTML file created with RMarkdown that shows your code as well as your written responses to the exercises.
 
 _Due Tues 2/23, 5pm_
 
@@ -52,7 +52,7 @@ _Due Tuesday 2/9_
 
 _Due Thursday 2/4_
 
- - Use tableplot and the NHANES dataset to create a multivariate data visualization. Post it on Piazza prior to class on Thursday, with a few sentence description of what story you think the graphic is telling.  
+ - Use tableplot and the NHANES dataset to create a multivariate data visualization. Post it on Piazza prior to class on Thursday, with a few sentences on what story you think the graphic is telling.  
 
 _Due Sunday 1/31 and Tuesday, 2/2_
 
@@ -89,7 +89,7 @@ _Due Tuesday, 1/26_
 
 _Due Thursday, 1/21_ 
 
- - Read syllabus
+ - Read the [syllabus](../assets/syllabus/data-stories-reich-syllabus.pdf)
  - Install R, RStudio
  - register on Piazza site, complete pre-semester survey
  - Complete the [swirl](http://swirlstats.com/students.html) R Programming Alt course, modules 1-3:
